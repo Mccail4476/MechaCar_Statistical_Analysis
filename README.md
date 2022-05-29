@@ -50,3 +50,24 @@ For Lot 2, t-test is ~0.5 and the p-value is ~0.6. No statistical significance.
 For Lot 3, t-test is ~2.1 and the p-value is 0.04. Since both variables break the cut-off point, there is statistical significance between Lot 3 and the mean. Inspection should start with Lot #3.
 
 
+## Study Design: MechaCar vs Competition
+
+To design a statistical study that would be used to quantify how the MechaCar would perform against the competitors, there are a few questions to ask.
+
+***What metric or metrics are you going to test?***
+
+An important metric to consider is how much will the car cost in terms of maintenance upkeep cost? 
+
+***What is the null hypothesis or alternative hypothesis?***
+
+H0: Cost of all MechaCars maintenance upkeep will be the same as the competitors. 
+
+Ha: Cost of all MechaCars maintenance upkeep is high than the competitors becasue of the quality of parts are not as good, or need specialize mechanics becasue their internal systems are more sophisticated. The parts could also be harder to find & therefore the mechanics charge more.
+
+***What statistical test would you use to test the hypothesis? And why?***
+
+Since we are comparing MechaCars maintenance upkeep with a different group, hence the competitors' maintenance upkeep, the desired test to use is the two-headed T-test.
+
+***What data is needed to run the statistical test?***
+
+Simply collect how much car owners spend on their maintenance upkeep for MechaCars along with competitors'. Collect large amount of data since people over the world use cars. It would not be wise to use data strictly in a city environment to predict trends for users in the rural area. 
