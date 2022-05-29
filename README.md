@@ -56,13 +56,13 @@ To design a statistical study that would be used to quantify how the MechaCar wo
 
 ***What metric or metrics are you going to test?***
 
-An important metric to consider is how much will the car cost in terms of maintenance upkeep cost? 
+An important metric to consider is how much will the car cost in terms of maintenance upkeep? 
 
 ***What is the null hypothesis or alternative hypothesis?***
 
 H0: Cost of all MechaCars maintenance upkeep will be the same as the competitors. 
 
-Ha: Cost of all MechaCars maintenance upkeep is high than the competitors becasue of the quality of parts are not as good, or need specialize mechanics becasue their internal systems are more sophisticated. The parts could also be harder to find & therefore the mechanics charge more.
+Ha: Cost of all MechaCars maintenance upkeep is high than the competitors because of the quality of parts are not as good, or need specialize mechanics because their internal systems are more sophisticated. The parts could also be harder to find & therefore the mechanics charge more.
 
 ***What statistical test would you use to test the hypothesis? And why?***
 
